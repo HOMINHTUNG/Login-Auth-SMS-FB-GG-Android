@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+
+    <string name="login_facebook">Log in with Facebook</string>
+    <string name="login_google">Log in with Google</string>
+
+    <string name="facebook_app_id">478749312540855</string>
+    <string name="fb_login_protocol_scheme">fb478749312540855</string>
+</resources>
